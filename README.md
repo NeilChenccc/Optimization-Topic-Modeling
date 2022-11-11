@@ -23,3 +23,5 @@ with a higher frequency will be placed on more emphasis.
 
 ## Referrence
 Topic modeling: An introduction. MonkeyLearn Blog. 2019 Sep 26 [accessed 2022 Nov 10]. https://monkeylearn.com/blog/introduction-to-topic-modeling. 
+
+An introduction to topic-noise models | by Rob Churchill | Oct, 2022 ... [accessed 2022 Nov 11]. https://towardsdatascience.com/an-introduction-to-topic-noise-models-c48fe77e32a6.
