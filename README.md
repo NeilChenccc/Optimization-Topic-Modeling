@@ -7,7 +7,7 @@ Latent Dirichlet Allocation (LDA) is a generative probabilistic model for collec
 
 However, when it comes to the definition of the subtopics for documents under the same main topic, more common words will appear in each document, indicating a higher weight in the model. Therefore, modifications need to be made for the classic LDA model to eliminate the effects of common high-frequency words. 
 
-In this project, the LDA model will be implemented through two main improvements. First, the new model will introduce bigram, which are two words coming together in the corpus language model. By aggregating data at the n-gram level, we can pull out themes that would otherwise be impossible to identify when analyzing search terms in their entirety (Gridley & Konowal, 2020). Second, a semi-supervised topic model designed with large domain-specific data sets in mind based on the combination of Noiseless Latent Dirichlet Allocation (NLDA) and Guided Topic-Noise Model (GTM) will be applied to reduce noise words.
+In this project, the LDA model will be implemented with two main improvements. First, the new model will introduce bigram, which are two words coming together in the corpus language model. By aggregating data at the n-gram level, we can pull out themes that would otherwise be impossible to identify when analyzing search terms in their entirety (Gridley & Konowal, 2020). Second, a semi-supervised topic model designed with large domain-specific data sets in mind based on the combination of Noiseless Latent Dirichlet Allocation (NLDA) and Guided Topic-Noise Model (GTM) will be applied to reduce noise words.
 
 ## Data
 
