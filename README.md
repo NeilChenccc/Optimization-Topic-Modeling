@@ -13,4 +13,4 @@ Topic modeling, a machine learning technique that automatically detects topics f
 
 
 ## Referrence
-Topic modeling: An introduction. MonkeyLearn Blog. 2019 Sep 26 [accessed 2022 Nov 10]. https://monkeylearn.com/blog/introduction-to-topic-modeling/#:~:text=Topic%20modeling%20is%20an%20unsupervised,characterize%20a%20set%20of%20documents. 
+Topic modeling: An introduction. MonkeyLearn Blog. 2019 Sep 26 [accessed 2022 Nov 10]. https://monkeylearn.com/blog/introduction-to-topic-modeling. 
