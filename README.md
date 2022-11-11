@@ -7,3 +7,6 @@
 
 ## Methodology
 
+## Result
+
+## Discussion
