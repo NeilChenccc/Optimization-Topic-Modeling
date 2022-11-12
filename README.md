@@ -19,9 +19,13 @@ In this project, the LDA model will be implemented with two main improvements. F
 
 
 ## Referrence
-Topic modeling: An introduction. MonkeyLearn Blog. 2019 Sep 26 [accessed 2022 Nov 10]. https://monkeylearn.com/blog/introduction-to-topic-modeling. 
+1. Churchill R, Singh L, Ryan R, Davis-Kean P. A guided topic-noise model for short texts. In: Proceedings of the ACM Web Conference 2022. New York, NY, USA: ACM; 2022.
 
-An introduction to topic-noise models | by Rob Churchill | Oct, 2022 ... [accessed 2022 Nov 11]. https://towardsdatascience.com/an-introduction-to-topic-noise-models-c48fe77e32a6.
+2. Churchill R. An introduction to topic-noise models. Towards Data Science. 2022 Oct 21 [accessed 2022 Nov 11]. https://towardsdatascience.com/an-introduction-to-topic-noise-models-c48fe77e32a6
 
+3. Topic modeling: An introduction. MonkeyLearn Blog. 2019 Sep 26 [accessed 2022 Nov 11]. https://monkeylearn.com/blog/introduction-to-topic-modeling/
 
-https://www.seerinteractive.com/blog/what-are-ngrams-and-uses-case/
+4. What are N-grams? Use cases to improve the profitability of your PPC. Seer Interactive. 2020 [accessed 2022 Nov 11]. https://www.seerinteractive.com/blog/what-are-ngrams-and-uses-case/
+
+5. Churchill R, Singh L. Dynamic topic-noise models for social media. In: Advances in Knowledge Discovery and Data Mining. Cham: Springer International Publishing; 2022. p. 429–443.
+
